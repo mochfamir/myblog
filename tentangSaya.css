@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.aboutMe {
+    position: relative;
+}
+
+.centered2 {
+    position: absolute;
+    top: 130px;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    z-index: 2;
+}
+
+#reim {
+    height: 300px;
+    width: 100%;
+    z-index: 3;
+}
+
+   
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.isi {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-sizing: border-box;
+    border-color: white;
+    color: white;
+    }
+
+
+#faishal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 360px;
+    height: 360px;
+}
